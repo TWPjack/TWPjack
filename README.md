@@ -7,7 +7,7 @@
 <div align="left">
 <p>
 
-[作品集](https://twpjack.github.io/)
+[portfolio](https://twpjack.github.io/)
 
 [![Gmail Badge](https://img.shields.io/badge/-jackfirstfound@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:jackfirstfound@gmail.com)](mailto:jackfirstfound@gmail.com)
 
